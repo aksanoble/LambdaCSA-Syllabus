@@ -52,31 +52,32 @@
   - [Computer Architecture II](#project132)
 
 - [Week 14](#week14)
-  - [Computer Architecture III](#project141)
-  - [C++ I](#project142)
+  - [Operating Systems I](#project141)
+  - [The C Programming Language I](#project142)
 
 - [Week 15](#week15)
-  - [C++ II](#project151)
-  - [C++ III](#project152)
+  - [Operating Systems II](#project151)
+  - [Operating Systems III](#project152)
 
 - [Week 16](#week16)
-  - [Data Structures I](#project161)
-  - [Data Structures II](#project162)
+  - [Applied C Programming](#project161)
+  - [Theory of Computation](#project162)
 
 - [Week 17](#week17)
-  - [Data Structures III](#project171)
-  - [Algorithms I](#project172)
+  - [Algorithms I](#project171)
+  - [Algorithms II](#project172)
 
 - [Week 18](#week18)
-  - [Algorithms II](#project181)
-  - [Operating Systems I](#project182)
+  - [Computer Graphics I](#project181)
+  - [Computer Graphics II](#project182)
 
 - [Week 19](#week19)
-  - [Operating Systems II](#project191)
-  - [Operating Systems III](#project192)
+  - [R](#project191)
+  - [Octave/Matlab](#project192)
 
 - [Week 20](#week20)
-  - [V8 Engine I](#project201)
+  - [Industry](#project201)
+  - [Personal Portfolio](#project202)
 
 - [Week 21](#week21)
   - [Relational DBs I](#project211)
