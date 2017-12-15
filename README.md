@@ -52,36 +52,36 @@
   - [Computer Architecture II](#project132)
 
 - [Week 14](#week14)
-  - [Operating Systems I](#project141)
-  - [The C Programming Language I](#project142)
+  - [Intro to The C Programming Language](#project141)
+  - [Intro to Operating Systems](#project142)
 
 - [Week 15](#week15)
-  - [Operating Systems II](#project151)
-  - [Operating Systems III](#project152)
+  - [Operating Systems: Processes](#project151)
+  - [Operating Systems: Scheduler](#project152)
 
 - [Week 16](#week16)
-  - [Applied C Programming](#project161)
-  - [Theory of Computation](#project162)
+  - [Theory of Computation](#project161)
+  - [Algorithms Refresher](#project162)
 
 - [Week 17](#week17)
   - [Algorithms I](#project171)
   - [Algorithms II](#project172)
 
 - [Week 18](#week18)
-  - [Computer Graphics I](#project181)
-  - [Computer Graphics II](#project182)
+  - [Security](#project181)
+  - [Cellular Automata](#project182)
 
 - [Week 19](#week19)
-  - [R](#project191)
-  - [Octave/Matlab](#project192)
+  - [Industry](#project191)
+  - [Industry](#project192)
 
 - [Week 20](#week20)
-  - [Industry](#project201)
-  - [Personal Portfolio](#project202)
+  - [Personal Project](#project201)
+  - [Personal Project](#project202)
 
 - [Week 21](#week21)
-  - [Relational DBs I](#project211)
-  - [Relational DBs II](#project212)
+  - [Personal Project](#project211)
+  - [Personal Project](#project212)
 
 - [Week 22](#week22)
   - [Capstone Project](#project221)
@@ -469,11 +469,7 @@ Repo coming soon
     - file systems
 
 ## <a name="week14"></a> Week 14
-#### <a name="project141"></a> Computer Architecture III
-- Topics
-    - C
-
-#### <a name="project142"></a> C++ I
+#### <a name="project141"></a> Intro to C 
 - Topics
     - data types
       - int
@@ -490,82 +486,80 @@ Repo coming soon
       - boolean logic
     - pointers
 
-## <a name="week15"></a> Week 15
-#### <a name="project151"></a> C++ II
+#### <a name="project142"></a> Intro to Operating Systems
 - Topics
-    - classes
-    - inheritance
-    - methods
-    - polymorphism
-    - private
+    - OS basics
+    - Memory management
+    - Processes
+    - Filesystems
 
-#### <a name="project152"></a> C++ III
+## <a name="week15"></a> Week 15
+#### <a name="project151"></a> Operating Systems: Processes
 - Topics
-    - multi threading
+    - More details about processes and threads
+    - Creating processes
+    - Interprocess communication
+
+#### <a name="project152"></a> Operating Systems: Scheduler
+- Topics
+    - How scheduling works in the kernel
+    - Implementation of a scheduling system
 
 ## <a name="week16"></a> Week 16
-#### <a name="project161"></a> Data Structures I
+#### <a name="project161"></a> Theory of Computation
 - Topics
-    - strings
-    - arrays
-    - vectors
+    - Turing
+    - Grammars
+    - State machines
+    - Regular expressions
 
-#### <a name="project162"></a> Data Structures II
+#### <a name="project162"></a> Algorithms Refresher
 - Topics
-    - linked lists
-    - hash tables
+    - Big-O
+    - Algorithms so far
 
 ## <a name="week17"></a> Week 17
-#### <a name="project171"></a> Data Structures III
+#### <a name="project171"></a> Algorithms I
 - Topics
-    - trees
-    - graphs
+    - Permutations
+    - Traveling Salesman Problem
 
-#### <a name="project172"></a> Algorithms I
+#### <a name="project172"></a> Algorithms II
 - Topics
-    - BFS
-    - DFS
-    - binary search
+    - Dijkstra's
+    - Graphical version of Traveling Salesman Problem
 
 ## <a name="week18"></a> Week 18
-#### <a name="project181"></a> Algorithms II
+#### <a name="project181"></a> Security
 - Topics
-    - quick sort
-    - merge sort
-    - recursion & dynamic programming
+    - Writing secure code
+    - Encryption
+    - SQL injection
+    - Avoiding common pitfalls
 
-#### <a name="project182"></a> Operating Systems I
+#### <a name="project182"></a> Cellular Automata
 - Topics
-    - processes
+    - Implementation of the Game of Life
+    - Applicates of cellular automata
+    - Implications for computability
 
 ## <a name="week19"></a> Week 19
-#### <a name="project191"></a> Operating Systems II
+#### <a name="project191"></a> Industry
 - Topics
-    - memory management
+    - Interviewing
+    - Online persona
 
-#### <a name="project192"></a> Operating Systems III
+#### <a name="project192"></a> Industry
 - Topics
-    - file systems
-    - virtualization
+    - Being effective in the workforce
 
 ## <a name="week20"></a> Week 20
-#### <a name="project201"></a> V8 Project I
-- Topics
-    - Chrome V8 Engine
-    - JavaScript structure
-    - shell
+#### <a name="project201"></a> Personal Project
 
 ## <a name="week21"></a> Week 21
-#### <a name="project211"></a> Relational Databases I
-- Topics
-    - SQL
-      - CRUD
+#### <a name="project211"></a> Personal Project
 
-#### <a name="project212"></a> Relational Databases II
-- Topics
-    - Postgres
-    - `sequelize`
-    - joins
+#### <a name="project212"></a> Personal Project
 
 ## <a name="week22"></a> Week 22
 #### <a name="project221"></a> Capstone Project
