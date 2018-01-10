@@ -149,8 +149,8 @@
 - Topics
   - Advanced JavaScript
     - higher order functions
-      - closure
-      - callback functions
+      - [closure](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
+      - [callback functions](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
     - recursion
     - classes
       - inheritance
