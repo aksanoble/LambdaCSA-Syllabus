@@ -1,5 +1,7 @@
 # Lambda School Computer Science Academy Syllabus
 
+- Work in progress: [New Syllabus](http://ls-training-kit.netlify.com/cs-master)
+
 - [Week 1](#week1)
   - [Basic JavaScript](#project11)
   - [Advanced JavaScript](#project12)
