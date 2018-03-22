@@ -1,6 +1,6 @@
 # Lambda School Computer Science Academy Syllabus
 
-- Work in progress: [New Syllabus](http://ls-training-kit.netlify.com/cs-master)
+- Work in progress: [New Syllabus](https://tk.lambdaschool.com/cs-master)
 
 - [Week 1](#week1)
   - [Basic JavaScript](#project11)
